@@ -1,6 +1,14 @@
 /* eslint-disable no-underscore-dangle */
 export default class HolbertonCourse {
-
+  /**
+   * Creates a new class
+   *
+   * @param {String} name - course name
+   * @param {Number} length - length course
+   * @param {String[]} students - names of students
+   *
+   * Implement getters and setters for each attri
+   */
   constructor(name, length, students) {
     this.name = name;
     this.length = length;
