@@ -3,7 +3,7 @@
  * @param {str} string - The message to be printed.
  */
 
-function displayMessage (str) {
+function displayMessage(str) {
   console.log(str);
 }
 
